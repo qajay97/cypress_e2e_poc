@@ -1,0 +1,14 @@
+{
+  "name": "e2etest",
+  "version": "1.0.0",
+  "description": "Sample POC for booking.com using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "pretest": "npm i"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.0.0"
+  }
+}

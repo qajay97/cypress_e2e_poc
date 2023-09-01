@@ -1,0 +1,9 @@
+{
+    "validBookingDetails": {
+        "firstName": "Test",
+        "lastName": "User",
+        "email": "testuser@malinator.com",
+        "bookingfor": "myself",
+        "phoneNo": "1234567890"
+    }
+}
